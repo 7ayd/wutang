@@ -116,6 +116,7 @@ contract NFT is ERC721URIStorage {
             )
         );
 
+
         console.log("\n--------------------");
         console.log(finalSvg);
         console.log("--------------------\n");
